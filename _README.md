@@ -3,7 +3,7 @@
 Printing instructions:
 
 1. Rig (19.5in diameter)
-- hoop: 1x `outer_end_neg`, 2x `outer_mid`, 1x `outer_end_pos`
+- hoop: 1x `outer_end_neg`, 2x `outer_mid` (pos and neg for correct labels), 1x `outer_end_pos`
 - speaker set up (1x each): `speaker_sleeve`, `speaker_front`, `speaker_ring`, `speaker_yoke`, 	
 - hubs (1x each): `hub_left`, `hub_right`, `upright_left`, `upright_right`
 - 2x `knob_m8`
